@@ -1,0 +1,25 @@
+
+.buttons{
+display:flex;
+height: 50px;
+align-items: center;
+gap: 20px;
+
+}
+nav{
+
+    border: 2px outset rgb(205, 224, 249);
+    background-color: rgb(222, 188, 215);
+    border-radius: 2px;
+    height: 60px;
+    text-align: center;
+    margin: 40px;
+    padding: 40px;
+    display: block;
+    color: black;
+    font-family: ui-monospace;
+    }
+img{
+    height: 40px;
+    width: 40px;
+}
